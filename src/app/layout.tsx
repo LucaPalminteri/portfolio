@@ -17,7 +17,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${poppins.className} flex min-h-screen flex-col items-center justify-start px-24`}>
+      <body className={`${poppins.className} min-h-screen min-w-screen flex flex-col items-center justify-start px-4 md:px-8 lg:px-12`}>
         <Header/>
         {children}
         <Footer/>
