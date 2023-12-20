@@ -1,5 +1,5 @@
 import WorkContainer from "@/src/components/WorkContainer/WorkContainer";
-import {works} from '@/src/utils/works'
+import works from '@/src/utils/works'
 
 export default async function WorkPage () {
   return (

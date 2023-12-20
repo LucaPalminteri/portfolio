@@ -1,5 +1,5 @@
 import BlogContainer from "@/src/components/BlogContainer/BlogContainer";
-import { blogs } from "@/src/utils/blogs";
+import blogs from "@/src/utils/blogs";
 
 export default async function BlogPage() {
   return (

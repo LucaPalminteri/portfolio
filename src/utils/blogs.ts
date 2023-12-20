@@ -1,6 +1,6 @@
 import { Blog } from "../types/types";
 
-export const blogs: Blog[] = [
+const blogs: Blog[] = [
     { title: "2023 Blog Refresh", views: 10434 },
     { title: "Why I'm Using Next.js", views: 81020 },
     { title: "Product and Platform Engineers", views: 18950 },
@@ -38,3 +38,5 @@ export const blogs: Blog[] = [
     { title: "Programming Portfolios", views: 12857 },
     { title: "Creating a Space Invaders Clone with Python", views: 21039 },
 ];
+
+export default blogs

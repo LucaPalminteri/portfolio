@@ -1,6 +1,6 @@
 import { Work } from "../types/types";
 
-export const works: Work[] = [
+const works: Work[] = [
     {
         title: "La Mutual AMR, Rosario, AR",
         position: "Full Stack Developer and DevOps Engineer",
@@ -56,3 +56,5 @@ export const works: Work[] = [
         `,
     },
 ];
+
+export default works
