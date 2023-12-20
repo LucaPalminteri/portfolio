@@ -14,11 +14,12 @@ export type Project = {
     title: string,
     description: string,
     image: string,
-    link: string
+    link: string,
+    repoLink: string
 }
 
 export type Tag = {
     title: string,
-    image: string,
+    className: string,
     color: string
 }

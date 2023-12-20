@@ -2,6 +2,7 @@ import AboutMe from "../components/AboutMe/AboutMe";
 import ProjectContainer from "../components/ProjectContainer/ProjectContainer";
 import Skills from "../components/Skills/Skills";
 import projects from "../utils/projects";
+import Js from "../utils/svg/Js";
 
 export default async function Home() {
   return (
