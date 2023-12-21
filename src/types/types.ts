@@ -2,7 +2,8 @@ export type Work = {
     title: string,
     position: string,
     duration: string,
-    description: string
+    description: string,
+    link?: string
 }
 
 export type Blog = {
