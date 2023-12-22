@@ -2,7 +2,7 @@ import { Work } from "../types/types";
 
 const works: Work[] = [
   {
-    title: "La Mutual AMR, Rosario, AR",
+    title: "La Mutual AMR",
     position: "Full Stack Developer and DevOps Engineer",
     duration: "2022 - Present",
     description: `
@@ -15,23 +15,24 @@ const works: Work[] = [
   },
   {
     title: "Restaurant Administration Website",
-    position: "Full Stack Developer",
+    position: "Full Stack Software Engineer",
     duration: "2023 - Present",
-    description: `
-        Collaborated on a side project with a coworker to create a comprehensive restaurant management application.
-        Developed both frontend and backend applications, including a client booking system and a dashboard for restaurant owners to access key business metrics.
-        Took charge of deployments, ensuring a seamless user experience for both clients and restaurant owners.
+    description: `  
+      As the CTO, I spearheaded a pivotal side project focused on developing a comprehensive restaurant management application. Overseeing the entire process, I took charge of styling, 
+      programming, deployment, database management, logic implementation, and UX considerations. Leading the full-stack development, I crafted both frontend and backend applications, 
+      featuring a client booking system and a dashboard tailored for restaurant owners. Personally managing the database architecture and logic, I ensured seamless functionality. 
+      Additionally, I orchestrated deployments to guarantee a smooth user experience and integrated key business metrics into the dashboard for informed decision-making. 
+      This experience allowed me to cultivate a holistic approach to software development, aligning aesthetics, functionality, and user experience within the project.
       `,
   },
   {
     title: "ASM Electronics",
-    position: "Software Engineer",
+    position: "Electric Technician Intern",
     duration: "2021 - 2022",
     description: `
-          Contributed as a Software Engineer at Tech Innovations Ltd.
-          Collaborated on the development of a cutting-edge mobile application, enhancing user experience and functionality.
-          Implemented RESTful APIs for seamless communication between the frontend and backend components.
-          Conducted code reviews and participated in team retrospectives to improve development processes.
+    Dedicated and detail-oriented electric technician with hands-on experience in the manufacturing and assembly of electronic devices, specializing in Raspberry Pi-based systems. 
+    Proficient in installing operating systems, loading programs, and repairing a variety of electronic devices. Adept at working with Arduino and other microcontrollers. 
+    Seeking to leverage technical skills and practical experience gained during an internship at ASM Electronics.
         `,
     link: 'http://asmelectronic.com.ar/'
   },
