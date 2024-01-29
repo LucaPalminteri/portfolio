@@ -7,6 +7,10 @@ const config: Config = {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    colors: {
+      backColorDark: '#222',
+      colorDark: '#FFF'
+    }
   },
   plugins: [],
 }
